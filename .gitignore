@@ -1,5 +1,6 @@
 HELP.md
 target/
+out/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
@@ -32,3 +33,4 @@ build/
 
 ###ignore log ###
 *.log
+/out/
